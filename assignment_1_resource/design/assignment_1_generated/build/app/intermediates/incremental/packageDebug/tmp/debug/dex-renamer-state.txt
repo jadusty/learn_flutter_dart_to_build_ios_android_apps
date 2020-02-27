@@ -1,0 +1,4 @@
+#Sun Jan 12 08:25:05 GMT 2020
+base.0=/Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

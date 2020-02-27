@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d09379d7cfaca4f458c5ae09c47e8ba5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/68ce08451dcd65d0315b7fbe7ead3711/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3ad4040f6917d093a5f8e52ce3086fa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0d78dccbb2b066cbca503fdf395370b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/214cc00a0310d6693909f20670db368f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b54cf2eda22757043d75830fcf2b6eff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a2194dba7dadd51b421d9f1b3821f5ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7b2d4de687a5c2eeeb125843bd70b536/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6c35a4c72d491530687042102415cf67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/67f6cd5c27aaa29211c094cb6a5100be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a2f6534e9c57642b24985e6cf2435a9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d898f6a10a5dddec18874c8aa1273759/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/87b4ae9419cb7195f680983a8debdafd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/48449e8693b542d874899a7233f56525/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e2a8feee0cf4847c022e1eb55de4e99d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/82bb4063bbc4a07205d020b5968e3b91/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c4e06b74d40e42b22e84bbbe292cbaf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3aef15eab41f44a2c3acb2c708b7201e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/09e8eefb7540040d2c6ce96032b3b484/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4b364074f1e66d084fc835f46f69d2cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f2471d8a85afd311c5827a110332a375/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/566011dcbc6a8d033d82b9e83d3642bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8cf7892efb57abc84a127fa7e7c5f6e5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:2:5-44
+		INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d898f6a10a5dddec18874c8aa1273759/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d898f6a10a5dddec18874c8aa1273759/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3aef15eab41f44a2c3acb2c708b7201e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3aef15eab41f44a2c3acb2c708b7201e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d898f6a10a5dddec18874c8aa1273759/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:11:9-37
+	android:icon
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.company_name.assignment_1.MainActivity
+ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d09379d7cfaca4f458c5ae09c47e8ba5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d09379d7cfaca4f458c5ae09c47e8ba5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/68ce08451dcd65d0315b7fbe7ead3711/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/68ce08451dcd65d0315b7fbe7ead3711/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3ad4040f6917d093a5f8e52ce3086fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/3ad4040f6917d093a5f8e52ce3086fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0d78dccbb2b066cbca503fdf395370b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0d78dccbb2b066cbca503fdf395370b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/214cc00a0310d6693909f20670db368f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/214cc00a0310d6693909f20670db368f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b54cf2eda22757043d75830fcf2b6eff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b54cf2eda22757043d75830fcf2b6eff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a2194dba7dadd51b421d9f1b3821f5ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a2194dba7dadd51b421d9f1b3821f5ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7b2d4de687a5c2eeeb125843bd70b536/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7b2d4de687a5c2eeeb125843bd70b536/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6c35a4c72d491530687042102415cf67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/6c35a4c72d491530687042102415cf67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/67f6cd5c27aaa29211c094cb6a5100be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/67f6cd5c27aaa29211c094cb6a5100be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a2f6534e9c57642b24985e6cf2435a9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a2f6534e9c57642b24985e6cf2435a9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d898f6a10a5dddec18874c8aa1273759/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d898f6a10a5dddec18874c8aa1273759/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/87b4ae9419cb7195f680983a8debdafd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/87b4ae9419cb7195f680983a8debdafd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/48449e8693b542d874899a7233f56525/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/48449e8693b542d874899a7233f56525/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e2a8feee0cf4847c022e1eb55de4e99d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/e2a8feee0cf4847c022e1eb55de4e99d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/82bb4063bbc4a07205d020b5968e3b91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/82bb4063bbc4a07205d020b5968e3b91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c4e06b74d40e42b22e84bbbe292cbaf4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c4e06b74d40e42b22e84bbbe292cbaf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3aef15eab41f44a2c3acb2c708b7201e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3aef15eab41f44a2c3acb2c708b7201e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/09e8eefb7540040d2c6ce96032b3b484/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/09e8eefb7540040d2c6ce96032b3b484/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4b364074f1e66d084fc835f46f69d2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4b364074f1e66d084fc835f46f69d2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f2471d8a85afd311c5827a110332a375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f2471d8a85afd311c5827a110332a375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/566011dcbc6a8d033d82b9e83d3642bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/566011dcbc6a8d033d82b9e83d3642bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8cf7892efb57abc84a127fa7e7c5f6e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/justinarcher/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8cf7892efb57abc84a127fa7e7c5f6e5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/android/app/src/debug/AndroidManifest.xml:6:22-64

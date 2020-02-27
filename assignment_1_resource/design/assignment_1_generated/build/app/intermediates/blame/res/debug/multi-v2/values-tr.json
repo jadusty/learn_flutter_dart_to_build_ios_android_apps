@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/justinarcher/repos/udemy/learn_flutter_dart_to_build_ios_android_apps/assignment_1_resource/design/assignment_1_generated/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
+            "map": [
+                {
+                    "source": "/Users/justinarcher/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d898f6a10a5dddec18874c8aa1273759/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
