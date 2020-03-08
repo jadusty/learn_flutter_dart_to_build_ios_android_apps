@@ -17,8 +17,8 @@ class TextApp extends StatefulWidget {
 
 class _TextAppState extends State<TextApp> {
   final _displayTexts = [
-    'This is my first text',
-    'This is my second text'
+    'This is my first text string',
+    'This is my second text string'
   ];
   int displayIdx = 0;
   String displayText;
